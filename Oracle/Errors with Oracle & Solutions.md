@@ -22,7 +22,7 @@ Connected to an idle instance.
 ```
 
 ### Resolution
-
+su oracle
 ```
 sqlplus / as sysdba
 startup
